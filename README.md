@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TeeTyJunGz
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning about Arduino and python
+- 👋 Hi, I’m @TeeTy
+- 👀 I’m interested in Robotics & Ai & Automation
+- 🌱 I’m currently learning about Arduino, Python and 3D printing
 
 <!---
 TeeTyJunGz/TeeTyJunGz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
